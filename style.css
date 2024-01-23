@@ -1,0 +1,51 @@
+* {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      list-style: none;
+}
+/* Hanuman Mandir History Style Section start */
+.Hanumam_mandir_History_box {
+      width: 100%;
+      height: auto;
+      padding: 20px;
+}
+
+.image-box {
+      width: 60%;
+      height: auto;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+}
+
+.Hanuman_ji_image {
+      width: 100%;
+      height: auto;
+      border-radius: 30px;
+      border-style: groove;
+      border-width: 5px;
+      border-color: black;
+      box-shadow: #F4C430 12px 12px 8px;
+}
+
+.History-para-hanumanji-heading {
+      font-size: 20px;
+      font-weight: 600;
+      margin-top: 10px;
+}
+
+.Hanuman_mandir_Paragraph {
+      font-size: 16px;
+      font-weight: 500;
+
+}
+
+@media screen and (max-width:750px) {
+.image-box{
+       width: 100%;
+}
+      
+}
+/* Hanuman Mandir History Style Section End */
